@@ -17,3 +17,4 @@ A collection of small things I learn day-to-day while working with different lan
 
 ### Unix
 * [Copy whole directory (with gotcha)](unix/copy-whole-directory.md)
+* [Jump over multiple hosts with SSH](unix/jump-over-multiple-hosts-with-ssh.md)
