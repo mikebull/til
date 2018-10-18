@@ -14,6 +14,7 @@ A collection of small things I learn day-to-day while working with different lan
 
 ### tmux
 * [Synchronise all panes in session](tmux/synchronise-all-panes-in-session.md)
+* [Even width of horizontal/vertical panes](tmux/even-width-of-horizontal-vertical-panes.md)
 
 ### Unix
 * [Copy whole directory (with gotcha)](unix/copy-whole-directory.md)
