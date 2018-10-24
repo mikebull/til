@@ -12,6 +12,9 @@ A collection of small things I learn day-to-day while working with different lan
 ### git
 * [Apply gitignore on existing repository where files are already tracked](git/apply-gitignore-on-existing-repository.md)
 
+### MySQL
+* [Pretty print in Command Line](mysql/pretty-print-in-command-line.md)
+
 ### tmux
 * [Synchronise all panes in session](tmux/synchronise-all-panes-in-session.md)
 * [Even width of horizontal/vertical panes](tmux/even-width-of-horizontal-vertical-panes.md)
